@@ -8,8 +8,9 @@ Project runs at loaclhost:5000 port</p>
 
 <p>Working prototype of project</p>
 1. Home page
-![alt text](image.png)
+image.png
+
 2. Adding numbers using buttons
-![alt text](image-1.png)
+   image-1.png
 3. sorting based on ascending or descending
-![alt text](image-2.png)
+   image-2.png
