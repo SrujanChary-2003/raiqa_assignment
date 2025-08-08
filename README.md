@@ -7,10 +7,10 @@ Run the command: npm run dev
 Project runs at loaclhost:5000 port</p>
 
 <p>Working prototype of project
-1. Home page
-image.png
-2. Adding numbers using buttons
-image-1.png
-3. sorting based on ascending or descending
-image-2.png
+- Home page
+![alt text](image-3.png)
+- Adding numbers using buttons
+![alt text](image-4.png)
+- sorting based on ascending or descending
+![alt text](image-5.png)
 </p>
