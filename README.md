@@ -1,12 +1,15 @@
-# React + Vite
+<h1>Counter & List App</h1>
+<h3>Tech Stack</h3>
+<p>Vite: React, CSS, Javascript</p>
+<p>Clone the project, 
+get into the project folder,
+Run the command: npm run dev
+Project runs at loaclhost:5000 port</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p>Working prototype of project</p>
+1. Home page
+![alt text](image.png)
+2. Adding numbers using buttons
+![alt text](image-1.png)
+3. sorting based on ascending or descending
+![alt text](image-2.png)
