@@ -6,11 +6,12 @@ get into the project folder,
 Run the command: npm run dev
 Project runs at loaclhost:5000 port</p>
 
-<p>Working prototype of project</p>
+<p>Working prototype of project
 1. Home page
 image.png
 
 2. Adding numbers using buttons
    image-1.png
 3. sorting based on ascending or descending
-   image-2.png
+image-2.png
+</p>
